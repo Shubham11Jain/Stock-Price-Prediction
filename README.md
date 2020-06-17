@@ -11,4 +11,6 @@ The dataset is a playground for fundamental and technical analysis. It is said t
 * securities.csv
 * fundamentals.csv
 
-#### You can access the Dataset content by clicking it [Here](https://docs.google.com/document/d/1lPTLjJ16rk-6CqGwLLYGxKKyODma-cBTd-P5X-kAb4I/edit#)
+#### For more information about the Dataset content, Click [Here](https://docs.google.com/document/d/1lPTLjJ16rk-6CqGwLLYGxKKyODma-cBTd-P5X-kAb4I/edit#)
+
+#### For accesing the Dataset Content (All the 4 csv files), Click [Here](https://drive.google.com/drive/folders/1pU6qCnlxy6BlJW95tOcAV9_hOzyq7nKm)
